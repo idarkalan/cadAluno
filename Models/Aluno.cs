@@ -13,6 +13,5 @@ namespace cadAluno.Models
         public string email_alu;
         public string telefone_alu;
         public DateTime dataNascimento_alu;
-
     }
 }

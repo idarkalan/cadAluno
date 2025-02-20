@@ -34,3 +34,4 @@ C:\Users\2023202060035\Documents\POO\cadAluno\obj\Debug\net9.0\refint\cadAluno.d
 C:\Users\2023202060035\Documents\POO\cadAluno\obj\Debug\net9.0\cadAluno.pdb
 C:\Users\2023202060035\Documents\POO\cadAluno\obj\Debug\net9.0\cadAluno.genruntimeconfig.cache
 C:\Users\2023202060035\Documents\POO\cadAluno\obj\Debug\net9.0\ref\cadAluno.dll
+C:\Users\2023202060035\Documents\POO\cadAluno\obj\Debug\net9.0\cadAluno.sourcelink.json

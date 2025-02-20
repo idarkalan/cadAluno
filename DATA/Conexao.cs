@@ -10,7 +10,7 @@ namespace cadAluno.DATA
     internal static class Conexao
     {
         static MySqlConnection? _conexao;
-        static string url = "server=localhost;port=3360;uid=root;pwd=root;database=aulaPOO";
+        static string url = "server=localhost;port=3360;uid=root;pwd=root;database=aulaPOO; Convert Zero Datetime=True";
 
         public static MySqlConnection Conectar()
         {

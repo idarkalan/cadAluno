@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\dao\\professordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:dao\\professordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:dao\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|c:\\users\\2023202060035\\documents\\poo\\cadaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BF7D93-BF85-4AEC-909A-5099263A1847}|cadAluno.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,25 +43,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProfessorDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DAO\\ProfessorDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProfessorDAO.cs",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DAO\\ProfessorDAO.cs",
+              "RelativeToolTip": "DAO\\ProfessorDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:28:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Models\\Professor.cs",
+              "RelativeToolTip": "Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:28:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Interface\\IDAO.cs",
+              "RelativeDocumentMoniker": "Interface\\IDAO.cs",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Interface\\IDAO.cs",
+              "RelativeToolTip": "Interface\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:14:59.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AlunoDAO.cs",
               "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DAO\\AlunoDAO.cs",
               "RelativeDocumentMoniker": "DAO\\AlunoDAO.cs",
-              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DAO\\AlunoDAO.cs*",
-              "RelativeToolTip": "DAO\\AlunoDAO.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DAO\\AlunoDAO.cs",
+              "RelativeToolTip": "DAO\\AlunoDAO.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwE4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T00:30:22.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DATA\\Conexao.cs",
               "RelativeDocumentMoniker": "DATA\\Conexao.cs",
               "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\DATA\\Conexao.cs",
               "RelativeToolTip": "DATA\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T23:49:46.495Z",
               "EditorCaption": ""
@@ -62,20 +113,20 @@
               "RelativeDocumentMoniker": "Models\\Aluno.cs",
               "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Models\\Aluno.cs",
               "RelativeToolTip": "Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T23:43:49.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\cadAluno\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T23:34:44.539Z",
               "EditorCaption": ""
